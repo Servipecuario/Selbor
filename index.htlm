@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Selbor - Soluciones Pecuarias</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <h1>Selbor</h1>
+    <p>Soluciones para el desarrollo agropecuario sostenible</p>
+  </header>
+
+  <nav class="navbar">
+    <a href="#inicio">Inicio</a>
+    <a href="#nosotros">Nosotros</a>
+    <a href="#producto">Servicios</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="inicio" class="section">
+    <h2>Bienvenido a Selbor</h2>
+    <p>Desde Aguachica, Cesar, brindamos soluciones técnicas para modernizar y fortalecer tu empresa agropecuaria.</p>
+  </section>
+
+  <section id="nosotros" class="section">
+    <h2>Nosotros</h2>
+    <p>Somos un emprendimiento comprometido con el desarrollo pecuario integral. Promovemos prácticas sostenibles, tecnificadas y rentables para el campo colombiano.</p>
+  </section>
+
+  <section id="producto" class="section">
+    <h2>Servicios</h2>
+    <ul>
+      <li>✔ Mejoramiento y tecnificación de empresas agropecuarias</li>
+      <li>✔ Formulación y ejecución de proyectos agropecuarios</li>
+      <li>✔ Peritaje y valorización de predios rurales</li>
+      <li>✔ Formación por competencias laborales</li>
+      <li>✔ Implementación tecnológica agroindustrial y piscícola</li>
+    </ul>
+  </section>
+
+  <section id="contacto" class="section">
+    <h2>Contacto</h2>
+    <p>📍 Aguachica, Sur del Cesar, Colombia</p>
+    <p>📧 contacto@selbor.com</p>
+    <p>📱 WhatsApp: +57 300 000 0000</p>
+  </section>
+
+  <footer class="footer">
+    <p>&copy; 2025 Selbor. Todos los derechos reservados.</p>
+  </footer>
+</body>
+</html>
